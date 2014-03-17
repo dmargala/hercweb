@@ -2,16 +2,11 @@
 
 <h1>{{member.fullname}}</h1>
 
-<p>{{member.house}}</p>
-<p>{{member.districtOrdinal}}</p>
-<p>{{member.party}}</p>
+<p>{{member.party}} representing the {{member.districtOrdinal}} {{member.house}} district</p>
 <p>{{member.cities.split('\n').join(', ')}}</p>
 
 <div class="span10">
-  <li ng-repeat="vote in member.voterecord">
-  	<span>{{vote.title}}</span>
-    <dl>
-    	{{vote.vote | checkmark}} {{vote.target | checkmark}} {{vote.weight}} | {{vote.description}}
-    </dl>
+  <li ng-repeat="vote in member.voterecord" class="thumbnail">
+    {{vote.title}} | {{vote.vote | checkmark}} | {{vote.target | checkmark}} | {{vote.weight}} | {{vote.description}}
   </li>
 </div>
