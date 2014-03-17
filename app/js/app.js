@@ -4,6 +4,7 @@
 
 var hercwebApp = angular.module('hercwebApp', [
   'ngRoute',
+  'hercwebAnimations',
   'hercwebControllers',
   'hercwebFilters',
   'hercwebServices'

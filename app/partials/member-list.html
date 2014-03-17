@@ -22,7 +22,7 @@
     <div class="span6">
 
       <ul class="members">
-        <li ng-repeat="member in members | filter:query | orderBy:orderProp" class="thumbnail">
+        <li ng-repeat="member in members | filter:query | orderBy:orderProp" class="thumbnail member-listing">
           <a href="#/members/{{member.nameid}}" class="thumb"><img ng-src="{{member.image}}"></a>
           <a href="#/members/{{member.nameid}}">{{member.fullname}}</a>
           <p>District: {{member.district}}</p>
