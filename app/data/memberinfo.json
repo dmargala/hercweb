@@ -1,0 +1,1665 @@
+{
+  "uname": [
+    "Darwin",
+    "fed1dsrj02-ge600.rd.sd.cox.net",
+    "12.5.0",
+    "Darwin Kernel Version 12.5.0: Sun Sep 29 13:33:47 PDT 2013; root:xnu-2050.48.12~1/RELEASE_X86_64",
+    "x86_64"
+  ],
+  "git": "8d49a194dd3c9ac87981e6e960a8c5a2dddf5204",
+  "members": [
+    {
+      "member": "Dahle",
+      "body": "assembly",
+      "district": 1,
+      "party": "Republican",
+      "image": "img/assembly/brian_dahle.jpg",
+      "cities": [
+        "Redding",
+        "Susanville",
+        "Truckee"
+      ],
+      "nameid": "brian_dahle",
+      "fullname": "Brian Dahle"
+    },
+    {
+      "member": "Gaines",
+      "body": "senate",
+      "district": 1,
+      "party": "Republican",
+      "image": "img/senate/ted_gaines.jpg",
+      "cities": [
+        "Redding",
+        "Folsom",
+        "Rocklin"
+      ],
+      "nameid": "ted_gaines",
+      "fullname": "Ted Gaines"
+    },
+    {
+      "member": "Levine",
+      "body": "assembly",
+      "district": 10,
+      "party": "Democrat",
+      "image": "img/assembly/marc_levine.jpg",
+      "cities": [
+        "Santa Rosa",
+        "Petaluma",
+        "San Rafael"
+      ],
+      "nameid": "marc_levine",
+      "fullname": "Marc Levine"
+    },
+    {
+      "member": "Corbett",
+      "body": "senate",
+      "district": 10,
+      "party": "Democrat",
+      "image": "img/senate/ellen_m_corbett.jpg",
+      "cities": [
+        "Fremont",
+        "Hayward",
+        "San Jose"
+      ],
+      "nameid": "ellen_m_corbett",
+      "fullname": "Ellen M. Corbett"
+    },
+    {
+      "member": "Frazier",
+      "body": "assembly",
+      "district": 11,
+      "party": "Democrat",
+      "image": "img/assembly/jim_frazier.jpg",
+      "cities": [
+        "Fairfield",
+        "Antioch",
+        "Vacaville"
+      ],
+      "nameid": "jim_frazier",
+      "fullname": "Jim Frazier"
+    },
+    {
+      "member": "Leno",
+      "body": "senate",
+      "district": 11,
+      "party": "Democrat",
+      "image": "img/senate/mark_leno.jpg",
+      "cities": [
+        "San Francisco",
+        "Daly City",
+        "South San Francisco"
+      ],
+      "nameid": "mark_leno",
+      "fullname": "Mark Leno"
+    },
+    {
+      "member": "Olsen",
+      "body": "assembly",
+      "district": 12,
+      "party": "Republican",
+      "image": "img/assembly/kristin_olsen.jpg",
+      "cities": [
+        "Modesto",
+        "Turlock",
+        "Manteca"
+      ],
+      "nameid": "kristin_olsen",
+      "fullname": "Kristin Olsen"
+    },
+    {
+      "member": "Cannella",
+      "body": "senate",
+      "district": 12,
+      "party": "Republican",
+      "image": "img/senate/anthony_cannella.jpg",
+      "cities": [
+        "Salinas",
+        "Merced",
+        "Madera"
+      ],
+      "nameid": "anthony_cannella",
+      "fullname": "Anthony Cannella"
+    },
+    {
+      "member": "Eggman",
+      "body": "assembly",
+      "district": 13,
+      "party": "Democrat",
+      "image": "img/assembly/susan_talamantes_eggman.jpg",
+      "cities": [
+        "Stockton",
+        "Tracy",
+        "Lodi"
+      ],
+      "nameid": "susan_talamantes_eggman",
+      "fullname": "Susan Talamantes Eggman"
+    },
+    {
+      "member": "Hill",
+      "body": "senate",
+      "district": 13,
+      "party": "Democrat",
+      "image": "img/senate/jerry_hill.jpg",
+      "cities": [
+        "Sunnyvale",
+        "San Mateo",
+        "Redwood City"
+      ],
+      "nameid": "jerry_hill",
+      "fullname": "Jerry Hill"
+    },
+    {
+      "member": "Bonilla",
+      "body": "assembly",
+      "district": 14,
+      "party": "Democrat",
+      "image": "img/assembly/susan_bonilla.jpg",
+      "cities": [
+        "Concord",
+        "Vallejo",
+        "Pittsburg"
+      ],
+      "nameid": "susan_bonilla",
+      "fullname": "Susan Bonilla"
+    },
+    {
+      "member": "Berryhill",
+      "body": "senate",
+      "district": 14,
+      "party": "Republican",
+      "image": "img/senate/tom_berryhill.jpg",
+      "cities": [
+        "Fresno",
+        "Bakersfield",
+        "Porterville"
+      ],
+      "nameid": "tom_berryhill",
+      "fullname": "Tom Berryhill"
+    },
+    {
+      "member": "Skinner",
+      "body": "assembly",
+      "district": 15,
+      "party": "Democrat",
+      "image": "img/assembly/nancy_skinner.jpg",
+      "cities": [
+        "Berkeley",
+        "Richmond",
+        "Oakland"
+      ],
+      "nameid": "nancy_skinner",
+      "fullname": "Nancy Skinner"
+    },
+    {
+      "member": "Beall",
+      "body": "senate",
+      "district": 15,
+      "party": "Democrat",
+      "image": "img/senate/jim_beall.jpg",
+      "cities": [
+        "San Jose",
+        "Cupertino",
+        "Campbell"
+      ],
+      "nameid": "jim_beall",
+      "fullname": "Jim Beall"
+    },
+    {
+      "member": "Buchanan",
+      "body": "assembly",
+      "district": 16,
+      "party": "Democrat",
+      "image": "img/assembly/joan_buchanan.jpg",
+      "cities": [
+        "Livermore",
+        "San Ramon",
+        "Pleasanton"
+      ],
+      "nameid": "joan_buchanan",
+      "fullname": "Joan Buchanan"
+    },
+    {
+      "member": "Vidak",
+      "body": "senate",
+      "district": 16,
+      "party": "Republican",
+      "image": "img/senate/andy_vidak.jpg",
+      "cities": [
+        "Bakersfield",
+        "Visalia",
+        "Tulare"
+      ],
+      "nameid": "andy_vidak",
+      "fullname": "Andy Vidak"
+    },
+    {
+      "member": "Ammiano",
+      "body": "assembly",
+      "district": 17,
+      "party": "Democrat",
+      "image": "img/assembly/tom_ammiano.jpg",
+      "cities": [
+        "San Francisco"
+      ],
+      "nameid": "tom_ammiano",
+      "fullname": "Tom Ammiano"
+    },
+    {
+      "member": "Monning",
+      "body": "senate",
+      "district": 17,
+      "party": "Democrat",
+      "image": "img/senate/bill_monning.jpg",
+      "cities": [
+        "San Jose",
+        "Santa Cruz",
+        "Watsonville"
+      ],
+      "nameid": "bill_monning",
+      "fullname": "Bill Monning"
+    },
+    {
+      "member": "Bonta",
+      "body": "assembly",
+      "district": 18,
+      "party": "Democrat",
+      "image": "img/assembly/rob_bonta.jpg",
+      "cities": [
+        "Oakland",
+        "San Leandro",
+        "Alameda"
+      ],
+      "nameid": "rob_bonta",
+      "fullname": "Rob Bonta"
+    },
+    {
+      "member": "Fuller",
+      "body": "senate",
+      "district": 18,
+      "party": "Republican",
+      "image": "img/senate/jean_fuller.jpg",
+      "cities": [
+        "Los Angeles",
+        "San Fernando",
+        "Burbank"
+      ],
+      "nameid": "jean_fuller",
+      "fullname": "Jean Fuller"
+    },
+    {
+      "member": "Ting",
+      "body": "assembly",
+      "district": 19,
+      "party": "Democrat",
+      "image": "img/assembly/philip_y_ting.jpg",
+      "cities": [
+        "San Francisco",
+        "Daly City",
+        "South San Francisco"
+      ],
+      "nameid": "philip_y_ting",
+      "fullname": "Philip Y. Ting"
+    },
+    {
+      "member": "Jackson",
+      "body": "senate",
+      "district": 19,
+      "party": "Democrat",
+      "image": "img/senate/hannah-beth_jackson.jpg",
+      "cities": [
+        "Oxnard",
+        "San Buenaventura (Ventura)",
+        "Santa Maria"
+      ],
+      "nameid": "hannah-beth_jackson",
+      "fullname": "Hannah-Beth Jackson"
+    },
+    {
+      "member": "Chesbro",
+      "body": "assembly",
+      "district": 2,
+      "party": "Democrat",
+      "image": "img/assembly/wesley_chesbro.jpg",
+      "cities": [
+        "Santa Rosa",
+        "Eureka",
+        "Windsor"
+      ],
+      "nameid": "wesley_chesbro",
+      "fullname": "Wesley Chesbro"
+    },
+    {
+      "member": "Evans",
+      "body": "senate",
+      "district": 2,
+      "party": "Democrat",
+      "image": "img/senate/noreen_evans.jpg",
+      "cities": [
+        "Santa Rosa",
+        "San Rafael",
+        "Novato"
+      ],
+      "nameid": "noreen_evans",
+      "fullname": "Noreen Evans"
+    },
+    {
+      "member": "Quirk",
+      "body": "assembly",
+      "district": 20,
+      "party": "Democrat",
+      "image": "img/assembly/bill_quirk.jpg",
+      "cities": [
+        "Hayward",
+        "Fremont",
+        "Union City"
+      ],
+      "nameid": "bill_quirk",
+      "fullname": "Bill Quirk"
+    },
+    {
+      "member": "Padilla",
+      "body": "senate",
+      "district": 20,
+      "party": "Democrat",
+      "image": "img/senate/alex_padilla.jpg",
+      "cities": [
+        "Fontana",
+        "Ontario",
+        "Pomona"
+      ],
+      "nameid": "alex_padilla",
+      "fullname": "Alex Padilla"
+    },
+    {
+      "member": "Gray",
+      "body": "assembly",
+      "district": 21,
+      "party": "Democrat",
+      "image": "img/assembly/adam_gray.jpg",
+      "cities": [
+        "Merced",
+        "Modesto",
+        "Ceres"
+      ],
+      "nameid": "adam_gray",
+      "fullname": "Adam Gray"
+    },
+    {
+      "member": "Knight",
+      "body": "senate",
+      "district": 21,
+      "party": "Republican",
+      "image": "img/senate/steve_knight.jpg",
+      "cities": [
+        "Lancaster",
+        "Palmdale",
+        "Santa Clarita"
+      ],
+      "nameid": "steve_knight",
+      "fullname": "Steve Knight"
+    },
+    {
+      "member": "Mullin",
+      "body": "assembly",
+      "district": 22,
+      "party": "Democrat",
+      "image": "img/assembly/kevin_mullin.jpg",
+      "cities": [
+        "San Mateo",
+        "Redwood City",
+        "South San Francisco"
+      ],
+      "nameid": "kevin_mullin",
+      "fullname": "Kevin Mullin"
+    },
+    {
+      "member": "De Le\u00f3n",
+      "body": "senate",
+      "district": 22,
+      "party": "Democrat",
+      "image": "img/senate/kevin_de_len.jpg",
+      "cities": [
+        "El Monte",
+        "Alhambra",
+        "West Covina"
+      ],
+      "nameid": "kevin_de_len",
+      "fullname": "Kevin de Le\u00f3n"
+    },
+    {
+      "member": "Patterson",
+      "body": "assembly",
+      "district": 23,
+      "party": "Republican",
+      "image": "img/assembly/jim_patterson.jpg",
+      "cities": [
+        "Fresno",
+        "Clovis"
+      ],
+      "nameid": "jim_patterson",
+      "fullname": "Jim Patterson"
+    },
+    {
+      "member": "Gordon",
+      "body": "assembly",
+      "district": 24,
+      "party": "Democrat",
+      "image": "img/assembly/richard_s_gordon.jpg",
+      "cities": [
+        "Sunnyvale",
+        "Mountain View",
+        "Palo Alto"
+      ],
+      "nameid": "richard_s_gordon",
+      "fullname": "Richard S. Gordon"
+    },
+    {
+      "member": "Hernandez",
+      "body": "senate",
+      "district": 24,
+      "party": "Democrat",
+      "image": "img/senate/ed_hernandez.jpg",
+      "cities": [
+        "Los Angeles"
+      ],
+      "nameid": "ed_hernandez",
+      "fullname": "Ed Hernandez"
+    },
+    {
+      "member": "Wieckowski",
+      "body": "assembly",
+      "district": 25,
+      "party": "Democrat",
+      "image": "img/assembly/bob_wieckowski.jpg",
+      "cities": [
+        "San Jose",
+        "Santa Clara",
+        "Fremont"
+      ],
+      "nameid": "bob_wieckowski",
+      "fullname": "Bob Wieckowski"
+    },
+    {
+      "member": "Liu",
+      "body": "senate",
+      "district": 25,
+      "party": "Democrat",
+      "image": "img/senate/carol_liu.jpg",
+      "cities": [
+        "Glendale",
+        "Pasadena",
+        "Burbank"
+      ],
+      "nameid": "carol_liu",
+      "fullname": "Carol Liu"
+    },
+    {
+      "member": "Conway",
+      "body": "assembly",
+      "district": 26,
+      "party": "Republican",
+      "image": "img/assembly/connie_conway.jpg",
+      "cities": [
+        "Visalia",
+        "Tulare",
+        "Porterville"
+      ],
+      "nameid": "connie_conway",
+      "fullname": "Connie Conway"
+    },
+    {
+      "member": "Mitchell",
+      "body": "senate",
+      "district": 26,
+      "party": "Democrat",
+      "image": "img/senate/holly_mitchell.jpg",
+      "cities": [
+        "Los Angeles",
+        "Santa Monica",
+        "Torrance"
+      ],
+      "nameid": "holly_mitchell",
+      "fullname": "Holly Mitchell"
+    },
+    {
+      "member": "Campos",
+      "body": "assembly",
+      "district": 27,
+      "party": "Democrat",
+      "image": "img/assembly/nora_campos.jpg",
+      "cities": [
+        "San Jose"
+      ],
+      "nameid": "nora_campos",
+      "fullname": "Nora Campos"
+    },
+    {
+      "member": "Pavley",
+      "body": "senate",
+      "district": 27,
+      "party": "Democrat",
+      "image": "img/senate/fran_pavley.jpg",
+      "cities": [
+        "Los Angeles",
+        "Thousand Oaks",
+        "Simi Valley"
+      ],
+      "nameid": "fran_pavley",
+      "fullname": "Fran Pavley"
+    },
+    {
+      "member": "Fong",
+      "body": "assembly",
+      "district": 28,
+      "party": "Democrat",
+      "image": "img/assembly/paul_fong.jpg",
+      "cities": [
+        "San Jose",
+        "Cupertino",
+        "Campbell"
+      ],
+      "nameid": "paul_fong",
+      "fullname": "Paul Fong"
+    },
+    {
+      "member": "Lieu",
+      "body": "senate",
+      "district": 28,
+      "party": "Democrat",
+      "image": "img/senate/ted_w_lieu.jpg",
+      "cities": [
+        "Murrieta",
+        "Temecula",
+        "Indio"
+      ],
+      "nameid": "ted_w_lieu",
+      "fullname": "Ted W. Lieu"
+    },
+    {
+      "member": "Stone",
+      "body": "assembly",
+      "district": 29,
+      "party": "Democrat",
+      "image": "img/assembly/mark_stone.jpg",
+      "cities": [
+        "San Jose",
+        "Santa Cruz",
+        "Seaside"
+      ],
+      "nameid": "mark_stone",
+      "fullname": "Mark Stone"
+    },
+    {
+      "member": "Huff",
+      "body": "senate",
+      "district": 29,
+      "party": "Republican",
+      "image": "img/senate/bob_huff.jpg",
+      "cities": [
+        "Anaheim",
+        "Fullerton",
+        "Chino Hills"
+      ],
+      "nameid": "bob_huff",
+      "fullname": "Bob Huff"
+    },
+    {
+      "member": "Logue",
+      "body": "assembly",
+      "district": 3,
+      "party": "Republican",
+      "image": "img/assembly/dan_logue.jpg",
+      "cities": [
+        "Chico",
+        "Yuba City",
+        "Paradise"
+      ],
+      "nameid": "dan_logue",
+      "fullname": "Dan Logue"
+    },
+    {
+      "member": "Wolk",
+      "body": "senate",
+      "district": 3,
+      "party": "Democrat",
+      "image": "img/senate/lois_wolk.jpg",
+      "cities": [
+        "Vallejo",
+        "Fairfield",
+        "Vacaville"
+      ],
+      "nameid": "lois_wolk",
+      "fullname": "Lois Wolk"
+    },
+    {
+      "member": "Alejo",
+      "body": "assembly",
+      "district": 30,
+      "party": "Democrat",
+      "image": "img/assembly/luis_a_alejo.jpg",
+      "cities": [
+        "Salinas",
+        "Watsonville",
+        "Gilroy"
+      ],
+      "nameid": "luis_a_alejo",
+      "fullname": "Luis A. Alejo"
+    },
+    {
+      "member": "Calderon",
+      "body": "senate",
+      "district": 30,
+      "party": "Democrat",
+      "image": "img/senate/ron_calderon.jpg",
+      "cities": [
+        "Los Angeles",
+        "Culver City",
+        "Inglewood"
+      ],
+      "nameid": "ron_calderon",
+      "fullname": "Ron Calderon"
+    },
+    {
+      "member": "Perea",
+      "body": "assembly",
+      "district": 31,
+      "party": "Democrat",
+      "image": "img/assembly/henry_t_perea.jpg",
+      "cities": [
+        "Fresno",
+        "Sanger",
+        "Reedley"
+      ],
+      "nameid": "henry_t_perea",
+      "fullname": "Henry T. Perea"
+    },
+    {
+      "member": "Roth",
+      "body": "senate",
+      "district": 31,
+      "party": "Democrat",
+      "image": "img/senate/richard_d_roth.jpg",
+      "cities": [
+        "Riverside",
+        "Moreno Valley",
+        "Corona"
+      ],
+      "nameid": "richard_d_roth",
+      "fullname": "Richard D. Roth"
+    },
+    {
+      "member": "Salas",
+      "body": "assembly",
+      "district": 32,
+      "party": "Democrat",
+      "image": "img/assembly/rudy_jr_salas.jpg",
+      "cities": [
+        "Bakersfield",
+        "Hanford",
+        "Delano"
+      ],
+      "nameid": "rudy_jr_salas",
+      "fullname": "Rudy Jr. Salas"
+    },
+    {
+      "member": "Torres",
+      "body": "senate",
+      "district": 32,
+      "party": "Democrat",
+      "image": "img/senate/norma_j_torres.jpg",
+      "cities": [
+        "Downey",
+        "Norwalk",
+        "Whittier"
+      ],
+      "nameid": "norma_j_torres",
+      "fullname": "Norma J. Torres"
+    },
+    {
+      "member": "Donnelly",
+      "body": "assembly",
+      "district": 33,
+      "party": "Republican",
+      "image": "img/assembly/tim_donnelly.jpg",
+      "cities": [
+        "Victorville",
+        "Hesperia",
+        "Apple Valley"
+      ],
+      "nameid": "tim_donnelly",
+      "fullname": "Tim Donnelly"
+    },
+    {
+      "member": "Lara",
+      "body": "senate",
+      "district": 33,
+      "party": "Democrat",
+      "image": "img/senate/ricardo_lara.jpg",
+      "cities": [
+        "Long Beach",
+        "South Gate",
+        "Lynwood"
+      ],
+      "nameid": "ricardo_lara",
+      "fullname": "Ricardo Lara"
+    },
+    {
+      "member": "Grove",
+      "body": "assembly",
+      "district": 34,
+      "party": "Republican",
+      "image": "img/assembly/shannon_l_grove.jpg",
+      "cities": [
+        "Bakersfield",
+        "Ridgecrest",
+        "Tehachapi"
+      ],
+      "nameid": "shannon_l_grove",
+      "fullname": "Shannon L. Grove"
+    },
+    {
+      "member": "Correa",
+      "body": "senate",
+      "district": 34,
+      "party": "Democrat",
+      "image": "img/senate/lou_correa.jpg",
+      "cities": [
+        "Santa Ana",
+        "Garden Grove",
+        "Huntington Beach"
+      ],
+      "nameid": "lou_correa",
+      "fullname": "Lou Correa"
+    },
+    {
+      "member": "Achadjian",
+      "body": "assembly",
+      "district": 35,
+      "party": "Republican",
+      "image": "img/assembly/katcho_achadjian.jpg",
+      "cities": [
+        "Santa Maria",
+        "San Luis Obispo",
+        "Lompoc"
+      ],
+      "nameid": "katcho_achadjian",
+      "fullname": "Katcho Achadjian"
+    },
+    {
+      "member": "Wright",
+      "body": "senate",
+      "district": 35,
+      "party": "Democrat",
+      "image": "img/senate/roderick_d_wright.jpg",
+      "cities": [
+        "Los Angeles",
+        "Compton",
+        "Inglewood"
+      ],
+      "nameid": "roderick_d_wright",
+      "fullname": "Roderick D. Wright"
+    },
+    {
+      "member": "Fox",
+      "body": "assembly",
+      "district": 36,
+      "party": "Democrat",
+      "image": "img/assembly/steve_fox.jpg",
+      "cities": [
+        "Lancaster",
+        "Palmdale",
+        "California City"
+      ],
+      "nameid": "steve_fox",
+      "fullname": "Steve Fox"
+    },
+    {
+      "member": "Anderson",
+      "body": "senate",
+      "district": 36,
+      "party": "Republican",
+      "image": "img/senate/joel_anderson.jpg",
+      "cities": [
+        "Oceanside",
+        "Carlsbad",
+        "Vista"
+      ],
+      "nameid": "joel_anderson",
+      "fullname": "Joel Anderson"
+    },
+    {
+      "member": "Williams",
+      "body": "assembly",
+      "district": 37,
+      "party": "Democrat",
+      "image": "img/assembly/das_williams.jpg",
+      "cities": [
+        "San Buenaventura (Ventura)",
+        "Santa Barbara",
+        "Oxnard"
+      ],
+      "nameid": "das_williams",
+      "fullname": "Das Williams"
+    },
+    {
+      "member": "Walters",
+      "body": "senate",
+      "district": 37,
+      "party": "Republican",
+      "image": "img/senate/mimi_walters.jpg",
+      "cities": [
+        "Irvine",
+        "Orange",
+        "Costa Mesa"
+      ],
+      "nameid": "mimi_walters",
+      "fullname": "Mimi Walters"
+    },
+    {
+      "member": "Wilk",
+      "body": "assembly",
+      "district": 38,
+      "party": "Republican",
+      "image": "img/assembly/scott_wilk.jpg",
+      "cities": [
+        "Santa Clarita",
+        "Simi Valley",
+        "Los Angeles"
+      ],
+      "nameid": "scott_wilk",
+      "fullname": "Scott Wilk"
+    },
+    {
+      "member": "Wyland",
+      "body": "senate",
+      "district": 38,
+      "party": "Republican",
+      "image": "img/senate/mark_wyland.jpg",
+      "cities": [
+        "Escondido",
+        "El Cajon",
+        "San Marcos"
+      ],
+      "nameid": "mark_wyland",
+      "fullname": "Mark Wyland"
+    },
+    {
+      "member": "Bocanegra",
+      "body": "assembly",
+      "district": 39,
+      "party": "Democrat",
+      "image": "img/assembly/raul_bocanegra.jpg",
+      "cities": [
+        "Los Angeles",
+        "San Fernando"
+      ],
+      "nameid": "raul_bocanegra",
+      "fullname": "Raul Bocanegra"
+    },
+    {
+      "member": "Block",
+      "body": "senate",
+      "district": 39,
+      "party": "Democrat",
+      "image": "img/senate/marty_block.jpg",
+      "cities": [
+        "San Diego",
+        "Coronado",
+        "Solana Beach"
+      ],
+      "nameid": "marty_block",
+      "fullname": "Marty Block"
+    },
+    {
+      "member": "Yamada",
+      "body": "assembly",
+      "district": 4,
+      "party": "Democrat",
+      "image": "img/assembly/mariko_yamada.jpg",
+      "cities": [
+        "Napa",
+        "Davis",
+        "Woodland"
+      ],
+      "nameid": "mariko_yamada",
+      "fullname": "Mariko Yamada"
+    },
+    {
+      "member": "Nielsen",
+      "body": "senate",
+      "district": 4,
+      "party": "Republican",
+      "image": "img/senate/jim_nielsen.jpg",
+      "cities": [
+        "Roseville",
+        "Chico",
+        "Citrus Heights"
+      ],
+      "nameid": "jim_nielsen",
+      "fullname": "Jim Nielsen"
+    },
+    {
+      "member": "Morrell",
+      "body": "assembly",
+      "district": 40,
+      "party": "Republican",
+      "image": "img/assembly/mike_morrell.jpg",
+      "cities": [
+        "Rancho Cucamonga",
+        "San Bernardino",
+        "Redlands"
+      ],
+      "nameid": "mike_morrell",
+      "fullname": "Mike Morrell"
+    },
+    {
+      "member": "Hueso",
+      "body": "senate",
+      "district": 40,
+      "party": "Democrat",
+      "image": "img/senate/ben_hueso.jpg",
+      "cities": [
+        "San Diego",
+        "Chula Vista",
+        "National City"
+      ],
+      "nameid": "ben_hueso",
+      "fullname": "Ben Hueso"
+    },
+    {
+      "member": "Holden",
+      "body": "assembly",
+      "district": 41,
+      "party": "Democrat",
+      "image": "img/assembly/chris_r_holden.jpg",
+      "cities": [
+        "Pasadena",
+        "Upland",
+        "Monrovia"
+      ],
+      "nameid": "chris_r_holden",
+      "fullname": "Chris R. Holden"
+    },
+    {
+      "member": "Nestande",
+      "body": "assembly",
+      "district": 42,
+      "party": "Republican",
+      "image": "img/assembly/brian_nestande.jpg",
+      "cities": [
+        "Yucaipa",
+        "Hemet",
+        "Palm Desert"
+      ],
+      "nameid": "brian_nestande",
+      "fullname": "Brian Nestande"
+    },
+    {
+      "member": "Gatto",
+      "body": "assembly",
+      "district": 43,
+      "party": "Democrat",
+      "image": "img/assembly/mike_gatto.jpg",
+      "cities": [
+        "Glendale",
+        "Los Angeles",
+        "Burbank"
+      ],
+      "nameid": "mike_gatto",
+      "fullname": "Mike Gatto"
+    },
+    {
+      "member": "Gorell",
+      "body": "assembly",
+      "district": 44,
+      "party": "Republican",
+      "image": "img/assembly/jeff_gorell.jpg",
+      "cities": [
+        "Oxnard",
+        "Thousand Oaks",
+        "Camarillo"
+      ],
+      "nameid": "jeff_gorell",
+      "fullname": "Jeff Gorell"
+    },
+    {
+      "member": "Dababneh",
+      "body": "assembly",
+      "district": 45,
+      "party": "Democrat",
+      "image": "img/assembly/matthew_dababneh.jpg",
+      "cities": [
+        "Los Angeles",
+        "Calabasas",
+        "Hidden Hills"
+      ],
+      "nameid": "matthew_dababneh",
+      "fullname": "Matthew Dababneh"
+    },
+    {
+      "member": "Nazarian",
+      "body": "assembly",
+      "district": 46,
+      "party": "Democrat",
+      "image": "img/assembly/adrin_nazarian.jpg",
+      "cities": [
+        "Los Angeles"
+      ],
+      "nameid": "adrin_nazarian",
+      "fullname": "Adrin Nazarian"
+    },
+    {
+      "member": "Brown",
+      "body": "assembly",
+      "district": 47,
+      "party": "Democrat",
+      "image": "img/assembly/cheryl_r_brown.jpg",
+      "cities": [
+        "Fontana",
+        "Rialto",
+        "San Bernardino"
+      ],
+      "nameid": "cheryl_r_brown",
+      "fullname": "Cheryl R. Brown"
+    },
+    {
+      "member": "Roger Hern\u00e1ndez",
+      "body": "assembly",
+      "district": 48,
+      "party": "Democrat",
+      "image": "img/assembly/roger_hernndez.jpg",
+      "cities": [
+        "West Covina",
+        "Baldwin Park",
+        "Glendora"
+      ],
+      "nameid": "roger_hernndez",
+      "fullname": "Roger Hern\u00e1ndez"
+    },
+    {
+      "member": "Chau",
+      "body": "assembly",
+      "district": 49,
+      "party": "Democrat",
+      "image": "img/assembly/ed_chau.jpg",
+      "cities": [
+        "Alhambra",
+        "El Monte",
+        "Monterey Park"
+      ],
+      "nameid": "ed_chau",
+      "fullname": "Ed Chau"
+    },
+    {
+      "member": "Bigelow",
+      "body": "assembly",
+      "district": 5,
+      "party": "Republican",
+      "image": "img/assembly/frank_bigelow.jpg",
+      "cities": [
+        "Madera",
+        "South Lake Tahoe",
+        "Chowchilla"
+      ],
+      "nameid": "frank_bigelow",
+      "fullname": "Frank Bigelow"
+    },
+    {
+      "member": "Galgiani",
+      "body": "senate",
+      "district": 5,
+      "party": "Democrat",
+      "image": "img/senate/cathleen_galgiani.jpg",
+      "cities": [
+        "Stockton",
+        "Modesto",
+        "Tracy"
+      ],
+      "nameid": "cathleen_galgiani",
+      "fullname": "Cathleen Galgiani"
+    },
+    {
+      "member": "Bloom",
+      "body": "assembly",
+      "district": 50,
+      "party": "Democrat",
+      "image": "img/assembly/richard_bloom.jpg",
+      "cities": [
+        "Los Angeles",
+        "Santa Monica",
+        "West Hollywood"
+      ],
+      "nameid": "richard_bloom",
+      "fullname": "Richard Bloom"
+    },
+    {
+      "member": "Gomez",
+      "body": "assembly",
+      "district": 51,
+      "party": "Democrat",
+      "image": "img/assembly/jimmy_gomez.jpg",
+      "cities": [
+        "Los Angeles"
+      ],
+      "nameid": "jimmy_gomez",
+      "fullname": "Jimmy Gomez"
+    },
+    {
+      "member": "Rodriguez",
+      "body": "assembly",
+      "district": 52,
+      "party": "Democrat",
+      "image": "img/assembly/freddie_rodriguez.jpg",
+      "cities": [
+        "Ontario",
+        "Pomona",
+        "Chino"
+      ],
+      "nameid": "freddie_rodriguez",
+      "fullname": "Freddie Rodriguez"
+    },
+    {
+      "member": "John A. P\u00e9rez",
+      "body": "assembly",
+      "district": 53,
+      "party": "Democrat",
+      "image": "img/assembly/john_a_prez.jpg",
+      "cities": [
+        "Los Angeles",
+        "Huntington Park",
+        "Vernon"
+      ],
+      "nameid": "john_a_prez",
+      "fullname": "John A. P\u00e9rez"
+    },
+    {
+      "member": "Ridley-Thomas",
+      "body": "assembly",
+      "district": 54,
+      "party": "Democrat",
+      "image": "img/assembly/sebastian_ridley-thomas.jpg",
+      "cities": [
+        "Los Angeles",
+        "Culver City",
+        "Inglewood"
+      ],
+      "nameid": "sebastian_ridley-thomas",
+      "fullname": "Sebastian Ridley-Thomas"
+    },
+    {
+      "member": "Hagman",
+      "body": "assembly",
+      "district": 55,
+      "party": "Republican",
+      "image": "img/assembly/curt_hagman.jpg",
+      "cities": [
+        "Chino Hills",
+        "Yorba Linda",
+        "La Habra"
+      ],
+      "nameid": "curt_hagman",
+      "fullname": "Curt Hagman"
+    },
+    {
+      "member": "V. Manuel P\u00e9rez",
+      "body": "assembly",
+      "district": 56,
+      "party": "Democrat",
+      "image": "img/assembly/v_manuel_prez.jpg",
+      "cities": [
+        "Indio",
+        "Cathedral City",
+        "El Centro"
+      ],
+      "nameid": "v_manuel_prez",
+      "fullname": "V. Manuel P\u00e9rez"
+    },
+    {
+      "member": "Calderon",
+      "body": "assembly",
+      "district": 57,
+      "party": "Democrat",
+      "image": "img/assembly/ian_c_calderon.jpg",
+      "cities": [
+        "Whittier",
+        "Norwalk",
+        "La Mirada"
+      ],
+      "nameid": "ian_c_calderon",
+      "fullname": "Ian C. Calderon"
+    },
+    {
+      "member": "Garcia",
+      "body": "assembly",
+      "district": 58,
+      "party": "Democrat",
+      "image": "img/assembly/cristina_garcia.jpg",
+      "cities": [
+        "Downey",
+        "Bellflower",
+        "Pico Rivera"
+      ],
+      "nameid": "cristina_garcia",
+      "fullname": "Cristina Garcia"
+    },
+    {
+      "member": "Jones-Sawyer",
+      "body": "assembly",
+      "district": 59,
+      "party": "Democrat",
+      "image": "img/assembly/reginald_b_sr_jones-sawyer.jpg",
+      "cities": [
+        "Los Angeles",
+        "Huntington Park"
+      ],
+      "nameid": "reginald_b_sr_jones-sawyer",
+      "fullname": "Reginald B. Sr. Jones-Sawyer"
+    },
+    {
+      "member": "Gaines",
+      "body": "assembly",
+      "district": 6,
+      "party": "Republican",
+      "image": "img/assembly/beth_gaines.jpg",
+      "cities": [
+        "Roseville",
+        "Folsom",
+        "Rocklin"
+      ],
+      "nameid": "beth_gaines",
+      "fullname": "Beth Gaines"
+    },
+    {
+      "member": "Steinberg",
+      "body": "senate",
+      "district": 6,
+      "party": "Democrat",
+      "image": "img/senate/darrell_steinberg.jpg",
+      "cities": [
+        "Sacramento",
+        "Elk Grove",
+        "West Sacramento"
+      ],
+      "nameid": "darrell_steinberg",
+      "fullname": "Darrell Steinberg"
+    },
+    {
+      "member": "Linder",
+      "body": "assembly",
+      "district": 60,
+      "party": "Republican",
+      "image": "img/assembly/eric_linder.jpg",
+      "cities": [
+        "Corona",
+        "Riverside",
+        "Norco"
+      ],
+      "nameid": "eric_linder",
+      "fullname": "Eric Linder"
+    },
+    {
+      "member": "Medina",
+      "body": "assembly",
+      "district": 61,
+      "party": "Democrat",
+      "image": "img/assembly/jose_medina.jpg",
+      "cities": [
+        "Moreno Valley",
+        "Riverside",
+        "Perris"
+      ],
+      "nameid": "jose_medina",
+      "fullname": "Jose Medina"
+    },
+    {
+      "member": "Bradford",
+      "body": "assembly",
+      "district": 62,
+      "party": "Democrat",
+      "image": "img/assembly/steven_bradford.jpg",
+      "cities": [
+        "Los Angeles",
+        "Inglewood",
+        "Hawthorne"
+      ],
+      "nameid": "steven_bradford",
+      "fullname": "Steven Bradford"
+    },
+    {
+      "member": "Rendon",
+      "body": "assembly",
+      "district": 63,
+      "party": "Democrat",
+      "image": "img/assembly/anthony_rendon.jpg",
+      "cities": [
+        "South Gate",
+        "Lakewood",
+        "Lynwood"
+      ],
+      "nameid": "anthony_rendon",
+      "fullname": "Anthony Rendon"
+    },
+    {
+      "member": "Hall",
+      "body": "assembly",
+      "district": 64,
+      "party": "Democrat",
+      "image": "img/assembly/isadore_iii_hall.jpg",
+      "cities": [
+        "Los Angeles",
+        "Compton",
+        "Carson"
+      ],
+      "nameid": "isadore_iii_hall",
+      "fullname": "Isadore III Hall"
+    },
+    {
+      "member": "Quirk-Silva",
+      "body": "assembly",
+      "district": 65,
+      "party": "Democrat",
+      "image": "img/assembly/sharon_quirk-silva.jpg",
+      "cities": [
+        "Fullerton",
+        "Anaheim",
+        "Buena Park"
+      ],
+      "nameid": "sharon_quirk-silva",
+      "fullname": "Sharon Quirk-Silva"
+    },
+    {
+      "member": "Muratsuchi",
+      "body": "assembly",
+      "district": 66,
+      "party": "Democrat",
+      "image": "img/assembly/al_muratsuchi.jpg",
+      "cities": [
+        "Torrance",
+        "Redondo Beach",
+        "Gardena"
+      ],
+      "nameid": "al_muratsuchi",
+      "fullname": "Al Muratsuchi"
+    },
+    {
+      "member": "Melendez",
+      "body": "assembly",
+      "district": 67,
+      "party": "Republican",
+      "image": "img/assembly/melissa_a_melendez.jpg",
+      "cities": [
+        "Murrieta",
+        "Menifee",
+        "Lake Elsinore"
+      ],
+      "nameid": "melissa_a_melendez",
+      "fullname": "Melissa A. Melendez"
+    },
+    {
+      "member": "Wagner",
+      "body": "assembly",
+      "district": 68,
+      "party": "Republican",
+      "image": "img/assembly/donald_p_wagner.jpg",
+      "cities": [
+        "Orange",
+        "Lake Forest",
+        "Tustin"
+      ],
+      "nameid": "donald_p_wagner",
+      "fullname": "Donald P. Wagner"
+    },
+    {
+      "member": "Daly",
+      "body": "assembly",
+      "district": 69,
+      "party": "Democrat",
+      "image": "img/assembly/tom_daly.jpg",
+      "cities": [
+        "Santa Ana",
+        "Anaheim",
+        "Garden Grove"
+      ],
+      "nameid": "tom_daly",
+      "fullname": "Tom Daly"
+    },
+    {
+      "member": "Dickinson",
+      "body": "assembly",
+      "district": 7,
+      "party": "Democrat",
+      "image": "img/assembly/roger_dickinson.jpg",
+      "cities": [
+        "Sacramento",
+        "West Sacramento"
+      ],
+      "nameid": "roger_dickinson",
+      "fullname": "Roger Dickinson"
+    },
+    {
+      "member": "DeSaulnier",
+      "body": "senate",
+      "district": 7,
+      "party": "Democrat",
+      "image": "img/senate/mark_desaulnier.jpg",
+      "cities": [
+        "Concord",
+        "Antioch",
+        "Livermore"
+      ],
+      "nameid": "mark_desaulnier",
+      "fullname": "Mark DeSaulnier"
+    },
+    {
+      "member": "Lowenthal",
+      "body": "assembly",
+      "district": 70,
+      "party": "Democrat",
+      "image": "img/assembly/bonnie_lowenthal.jpg",
+      "cities": [
+        "Long Beach",
+        "Los Angeles",
+        "Signal Hill"
+      ],
+      "nameid": "bonnie_lowenthal",
+      "fullname": "Bonnie Lowenthal"
+    },
+    {
+      "member": "Jones",
+      "body": "assembly",
+      "district": 71,
+      "party": "Republican",
+      "image": "img/assembly/brian_w_jones.jpg",
+      "cities": [
+        "El Cajon",
+        "Santee"
+      ],
+      "nameid": "brian_w_jones",
+      "fullname": "Brian W. Jones"
+    },
+    {
+      "member": "Allen",
+      "body": "assembly",
+      "district": 72,
+      "party": "Republican",
+      "image": "img/assembly/travis_allen.jpg",
+      "cities": [
+        "Garden Grove",
+        "Huntington Beach",
+        "Westminster"
+      ],
+      "nameid": "travis_allen",
+      "fullname": "Travis Allen"
+    },
+    {
+      "member": "Harkey",
+      "body": "assembly",
+      "district": 73,
+      "party": "Republican",
+      "image": "img/assembly/diane_l_harkey.jpg",
+      "cities": [
+        "Mission Viejo",
+        "San Clemente",
+        "Laguna Niguel"
+      ],
+      "nameid": "diane_l_harkey",
+      "fullname": "Diane L. Harkey"
+    },
+    {
+      "member": "Mansoor",
+      "body": "assembly",
+      "district": 74,
+      "party": "Republican",
+      "image": "img/assembly/allan_r_mansoor.jpg",
+      "cities": [
+        "Irvine",
+        "Costa Mesa",
+        "Huntington Beach"
+      ],
+      "nameid": "allan_r_mansoor",
+      "fullname": "Allan R. Mansoor"
+    },
+    {
+      "member": "Waldron",
+      "body": "assembly",
+      "district": 75,
+      "party": "Republican",
+      "image": "img/assembly/marie_waldron.jpg",
+      "cities": [
+        "Escondido",
+        "Temecula",
+        "San Marcos"
+      ],
+      "nameid": "marie_waldron",
+      "fullname": "Marie Waldron"
+    },
+    {
+      "member": "Ch\u00e1vez",
+      "body": "assembly",
+      "district": 76,
+      "party": "Republican",
+      "image": "img/assembly/rocky_j_chvez.jpg",
+      "cities": [
+        "Oceanside",
+        "Carlsbad",
+        "Vista"
+      ],
+      "nameid": "rocky_j_chvez",
+      "fullname": "Rocky J. Ch\u00e1vez"
+    },
+    {
+      "member": "Maienschein",
+      "body": "assembly",
+      "district": 77,
+      "party": "Republican",
+      "image": "img/assembly/brian_maienschein.jpg",
+      "cities": [
+        "San Diego",
+        "Poway"
+      ],
+      "nameid": "brian_maienschein",
+      "fullname": "Brian Maienschein"
+    },
+    {
+      "member": "Atkins",
+      "body": "assembly",
+      "district": 78,
+      "party": "Democrat",
+      "image": "img/assembly/toni_atkins.jpg",
+      "cities": [
+        "San Diego",
+        "Imperial Beach",
+        "Coronado"
+      ],
+      "nameid": "toni_atkins",
+      "fullname": "Toni Atkins"
+    },
+    {
+      "member": "Weber",
+      "body": "assembly",
+      "district": 79,
+      "party": "Democrat",
+      "image": "img/assembly/shirley_n_weber.jpg",
+      "cities": [
+        "San Diego",
+        "Chula Vista",
+        "La Mesa"
+      ],
+      "nameid": "shirley_n_weber",
+      "fullname": "Shirley N. Weber"
+    },
+    {
+      "member": "Cooley",
+      "body": "assembly",
+      "district": 8,
+      "party": "Democrat",
+      "image": "img/assembly/ken_cooley.jpg",
+      "cities": [
+        "Citrus Heights",
+        "Rancho Cordova"
+      ],
+      "nameid": "ken_cooley",
+      "fullname": "Ken Cooley"
+    },
+    {
+      "member": "Yee",
+      "body": "senate",
+      "district": 8,
+      "party": "Democrat",
+      "image": "img/senate/leland_y_yee.jpg",
+      "cities": [
+        "Fresno",
+        "Clovis",
+        "Turlock"
+      ],
+      "nameid": "leland_y_yee",
+      "fullname": "Leland Y. Yee"
+    },
+    {
+      "member": "Gonzalez",
+      "body": "assembly",
+      "district": 80,
+      "party": "Democrat",
+      "image": "img/assembly/lorena_gonzalez.jpg",
+      "cities": [
+        "San Diego",
+        "Chula Vista",
+        "National City"
+      ],
+      "nameid": "lorena_gonzalez",
+      "fullname": "Lorena Gonzalez"
+    },
+    {
+      "member": "Pan",
+      "body": "assembly",
+      "district": 9,
+      "party": "Democrat",
+      "image": "img/assembly/richard_pan.jpg",
+      "cities": [
+        "Elk Grove",
+        "Sacramento",
+        "Lodi"
+      ],
+      "nameid": "richard_pan",
+      "fullname": "Richard Pan"
+    },
+    {
+      "member": "Hancock",
+      "body": "senate",
+      "district": 9,
+      "party": "Democrat",
+      "image": "img/senate/loni_hancock.jpg",
+      "cities": [
+        "Oakland",
+        "Berkeley",
+        "Richmond"
+      ],
+      "nameid": "loni_hancock",
+      "fullname": "Loni Hancock"
+    }
+  ],
+  "argv": [
+    "importMemberInfo.py"
+  ],
+  "time": "Sun Mar 16 17:21:40 2014"
+}
