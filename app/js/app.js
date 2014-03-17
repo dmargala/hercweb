@@ -4,7 +4,8 @@
 
 var hercwebApp = angular.module('hercwebApp', [
   'ngRoute',
-  'hercwebControllers'
+  'hercwebControllers',
+  'hercwebFilters'
 ]);
 
 hercwebApp.config(['$routeProvider',
