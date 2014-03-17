@@ -1,4 +1,4 @@
-<img ng-src="{{member.image}}" class="thumb">
+<img ng-src="{{member.image}}" class="portrait">
 
 <h1>{{member.fullname}}</h1>
 
@@ -6,7 +6,24 @@
 <p>{{member.cities.split('\n').join(', ')}}</p>
 
 <div class="span10">
-  <li ng-repeat="vote in member.voterecord" class="thumbnail">
-    {{vote.title}} | {{vote.vote | checkmark}} | {{vote.target | checkmark}} | {{vote.weight}} | {{vote.description}}
-  </li>
+  <table class="table table-bordered">
+  	<thead>
+	  <tr>
+	    <td>Bill ID</td>
+	  	<td>Vote</td>
+	  	<td>Target</td>
+	  	<td>Weight</td>
+	  	<td>Bill Description</td>
+	  </tr>
+  	</thead>
+	<tbody>
+	  <tr ng-repeat="vote in member.voterecord" class="{{vote.vote == vote.target ? 'success' : 'danger'}}">
+	    <td>{{vote.title}}</td>
+	    <td>{{vote.vote == 'Y' | checkmark}}</td>
+	    <td>{{vote.target == 'Y' | checkmark}}</td>
+	    <td>{{vote.weight}}</td>
+	    <td>{{vote.description}}</td>
+	  </tr>
+	</tbody>
+  </table>
 </div>

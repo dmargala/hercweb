@@ -1,25 +1,27 @@
 /* app css stylesheet */
 
-body {
-  padding-top: 20px;
-}
-
 .members {
   list-style: none;
 }
 
 .thumb {
   float: left;
-  margin: -1em 1em 1.5em 0em;
-  padding-bottom: 1em;
+  margin: 0em 1em 0em 0em;
   height: 100px;
   width: 80px;
+}
+
+.portrait {
+  float: left;
+  margin: 0em 1em 1em 1em;
+  height: 150px;
+  width: 120px;
 }
 
 .members li {
   clear: both;
   height: 100px;
-  padding-top: 15px;
+  margin-top: 0px;
 }
 
 h1 {
