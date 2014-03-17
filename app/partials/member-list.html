@@ -25,8 +25,8 @@
         <li ng-repeat="member in members | filter:query | orderBy:orderProp" class="thumbnail member-listing">
           <a href="#/members/{{member.nameid}}" class="thumb"><img ng-src="{{member.image}}"></a>
           <a href="#/members/{{member.nameid}}">{{member.fullname}}</a>
-          <p>District: {{member.district}}</p>
-          <p>Party: {{member.party}}</p>
+          <p></p>
+          <p>{{member.party}} representing the {{member.district | ordinal}} {{member.body}} district</p>
           <p>Cities: {{member.cities.join(', ')}}</p>
         </li>
       </ul>
