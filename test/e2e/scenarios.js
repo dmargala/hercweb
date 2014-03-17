@@ -44,7 +44,7 @@ describe('HERCWeb App', function() {
     it('should render member specific links', function() {
       input('query').enter('huff');
       element('.members li a').click();
-      expect(browser().location().url()).toBe('/members/bob_huff');
+      expect(browser().location().url()).toBe('/members/Huff');
     });
 
   });
@@ -52,12 +52,12 @@ describe('HERCWeb App', function() {
   describe('Member detail view', function() {
  
     beforeEach(function() {
-      browser().navigateTo('app/index.html#/members/bob_huff');
+      browser().navigateTo('app/index.html#/members/Huff');
     });
  
  
-    it('should display placeholder page with memberId', function() {
-      expect(binding('memberId')).toBe('bob_huff');
+    it('should display Bob Huff page', function() {
+      expect(binding('member.fullname')).toBe('Bob Huff');
     });
   });
 

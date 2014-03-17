@@ -13,7 +13,9 @@ hercwebControllers.controller('MemberListCtrl', ['$scope', '$http',
 	$scope.orderProp = 'member';
   }]);
 
-hercwebControllers.controller('MemberDetailCtrl', ['$scope', '$routeParams',
-  function($scope, $routeParams) {
-    $scope.memberId = $routeParams.memberId;
+hercwebControllers.controller('MemberDetailCtrl', ['$scope', '$routeParams', '$http',
+  function($scope, $routeParams, $http) {
+    $http.get('data/members/' + $routeParams.memberId + '.json').success(function(data) {
+      $scope.member = data;
+    });
   }]);

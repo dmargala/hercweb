@@ -1,1 +1,17 @@
-TBD: detail view for {{memberId}}
+<img ng-src="{{member.image}}" class="img.member">
+
+<h1>{{member.fullname}}</h1>
+
+<p>{{member.house}}</p>
+<p>{{member.districtOrdinal}}</p>
+<p>{{member.party}}</p>
+<p>{{member.cities.split('\n').join(', ')}}</p>
+
+<div class="span10">
+  <li ng-repeat="vote in member.voterecord">
+  	<span>{{vote.title}}</span>
+    <dl>
+    	{{vote.vote}} {{vote.target}} {{vote.weight}} | {{vote.description}}
+    </dl>
+  </li>
+</div>

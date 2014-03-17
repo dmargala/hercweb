@@ -1,7 +1,7 @@
 {
   "uname": [
     "Darwin",
-    "fed1dsrj02-ge600.rd.sd.cox.net",
+    "dhcp-v213-155.vp.reshsg.uci.edu",
     "12.5.0",
     "Darwin Kernel Version 12.5.0: Sun Sep 29 13:33:47 PDT 2013; root:xnu-2050.48.12~1/RELEASE_X86_64",
     "x86_64"
@@ -19,7 +19,7 @@
         "Susanville",
         "Truckee"
       ],
-      "nameid": "brian_dahle",
+      "nameid": "Dahle",
       "fullname": "Brian Dahle"
     },
     {
@@ -33,7 +33,7 @@
         "Folsom",
         "Rocklin"
       ],
-      "nameid": "ted_gaines",
+      "nameid": "Gaines",
       "fullname": "Ted Gaines"
     },
     {
@@ -47,7 +47,7 @@
         "Petaluma",
         "San Rafael"
       ],
-      "nameid": "marc_levine",
+      "nameid": "Levine",
       "fullname": "Marc Levine"
     },
     {
@@ -61,7 +61,7 @@
         "Hayward",
         "San Jose"
       ],
-      "nameid": "ellen_m_corbett",
+      "nameid": "Corbett",
       "fullname": "Ellen M. Corbett"
     },
     {
@@ -75,7 +75,7 @@
         "Antioch",
         "Vacaville"
       ],
-      "nameid": "jim_frazier",
+      "nameid": "Frazier",
       "fullname": "Jim Frazier"
     },
     {
@@ -89,7 +89,7 @@
         "Daly City",
         "South San Francisco"
       ],
-      "nameid": "mark_leno",
+      "nameid": "Leno",
       "fullname": "Mark Leno"
     },
     {
@@ -103,7 +103,7 @@
         "Turlock",
         "Manteca"
       ],
-      "nameid": "kristin_olsen",
+      "nameid": "Olsen",
       "fullname": "Kristin Olsen"
     },
     {
@@ -117,7 +117,7 @@
         "Merced",
         "Madera"
       ],
-      "nameid": "anthony_cannella",
+      "nameid": "Cannella",
       "fullname": "Anthony Cannella"
     },
     {
@@ -131,7 +131,7 @@
         "Tracy",
         "Lodi"
       ],
-      "nameid": "susan_talamantes_eggman",
+      "nameid": "Eggman",
       "fullname": "Susan Talamantes Eggman"
     },
     {
@@ -145,7 +145,7 @@
         "San Mateo",
         "Redwood City"
       ],
-      "nameid": "jerry_hill",
+      "nameid": "Hill",
       "fullname": "Jerry Hill"
     },
     {
@@ -159,7 +159,7 @@
         "Vallejo",
         "Pittsburg"
       ],
-      "nameid": "susan_bonilla",
+      "nameid": "Bonilla",
       "fullname": "Susan Bonilla"
     },
     {
@@ -173,7 +173,7 @@
         "Bakersfield",
         "Porterville"
       ],
-      "nameid": "tom_berryhill",
+      "nameid": "Berryhill",
       "fullname": "Tom Berryhill"
     },
     {
@@ -187,7 +187,7 @@
         "Richmond",
         "Oakland"
       ],
-      "nameid": "nancy_skinner",
+      "nameid": "Skinner",
       "fullname": "Nancy Skinner"
     },
     {
@@ -201,7 +201,7 @@
         "Cupertino",
         "Campbell"
       ],
-      "nameid": "jim_beall",
+      "nameid": "Beall",
       "fullname": "Jim Beall"
     },
     {
@@ -215,7 +215,7 @@
         "San Ramon",
         "Pleasanton"
       ],
-      "nameid": "joan_buchanan",
+      "nameid": "Buchanan",
       "fullname": "Joan Buchanan"
     },
     {
@@ -229,7 +229,7 @@
         "Visalia",
         "Tulare"
       ],
-      "nameid": "andy_vidak",
+      "nameid": "Vidak",
       "fullname": "Andy Vidak"
     },
     {
@@ -241,7 +241,7 @@
       "cities": [
         "San Francisco"
       ],
-      "nameid": "tom_ammiano",
+      "nameid": "Ammiano",
       "fullname": "Tom Ammiano"
     },
     {
@@ -255,7 +255,7 @@
         "Santa Cruz",
         "Watsonville"
       ],
-      "nameid": "bill_monning",
+      "nameid": "Monning",
       "fullname": "Bill Monning"
     },
     {
@@ -269,7 +269,7 @@
         "San Leandro",
         "Alameda"
       ],
-      "nameid": "rob_bonta",
+      "nameid": "Bonta",
       "fullname": "Rob Bonta"
     },
     {
@@ -283,7 +283,7 @@
         "San Fernando",
         "Burbank"
       ],
-      "nameid": "jean_fuller",
+      "nameid": "Fuller",
       "fullname": "Jean Fuller"
     },
     {
@@ -297,7 +297,7 @@
         "Daly City",
         "South San Francisco"
       ],
-      "nameid": "philip_y_ting",
+      "nameid": "Ting",
       "fullname": "Philip Y. Ting"
     },
     {
@@ -311,7 +311,7 @@
         "San Buenaventura (Ventura)",
         "Santa Maria"
       ],
-      "nameid": "hannah-beth_jackson",
+      "nameid": "Jackson",
       "fullname": "Hannah-Beth Jackson"
     },
     {
@@ -325,7 +325,7 @@
         "Eureka",
         "Windsor"
       ],
-      "nameid": "wesley_chesbro",
+      "nameid": "Chesbro",
       "fullname": "Wesley Chesbro"
     },
     {
@@ -339,7 +339,7 @@
         "San Rafael",
         "Novato"
       ],
-      "nameid": "noreen_evans",
+      "nameid": "Evans",
       "fullname": "Noreen Evans"
     },
     {
@@ -353,7 +353,7 @@
         "Fremont",
         "Union City"
       ],
-      "nameid": "bill_quirk",
+      "nameid": "Quirk",
       "fullname": "Bill Quirk"
     },
     {
@@ -367,7 +367,7 @@
         "Ontario",
         "Pomona"
       ],
-      "nameid": "alex_padilla",
+      "nameid": "Padilla",
       "fullname": "Alex Padilla"
     },
     {
@@ -381,7 +381,7 @@
         "Modesto",
         "Ceres"
       ],
-      "nameid": "adam_gray",
+      "nameid": "Gray",
       "fullname": "Adam Gray"
     },
     {
@@ -395,7 +395,7 @@
         "Palmdale",
         "Santa Clarita"
       ],
-      "nameid": "steve_knight",
+      "nameid": "Knight",
       "fullname": "Steve Knight"
     },
     {
@@ -409,7 +409,7 @@
         "Redwood City",
         "South San Francisco"
       ],
-      "nameid": "kevin_mullin",
+      "nameid": "Mullin",
       "fullname": "Kevin Mullin"
     },
     {
@@ -423,7 +423,7 @@
         "Alhambra",
         "West Covina"
       ],
-      "nameid": "kevin_de_len",
+      "nameid": "DeLen",
       "fullname": "Kevin de Le\u00f3n"
     },
     {
@@ -436,7 +436,7 @@
         "Fresno",
         "Clovis"
       ],
-      "nameid": "jim_patterson",
+      "nameid": "Patterson",
       "fullname": "Jim Patterson"
     },
     {
@@ -450,7 +450,7 @@
         "Mountain View",
         "Palo Alto"
       ],
-      "nameid": "richard_s_gordon",
+      "nameid": "Gordon",
       "fullname": "Richard S. Gordon"
     },
     {
@@ -462,7 +462,7 @@
       "cities": [
         "Los Angeles"
       ],
-      "nameid": "ed_hernandez",
+      "nameid": "Hernandez",
       "fullname": "Ed Hernandez"
     },
     {
@@ -476,7 +476,7 @@
         "Santa Clara",
         "Fremont"
       ],
-      "nameid": "bob_wieckowski",
+      "nameid": "Wieckowski",
       "fullname": "Bob Wieckowski"
     },
     {
@@ -490,7 +490,7 @@
         "Pasadena",
         "Burbank"
       ],
-      "nameid": "carol_liu",
+      "nameid": "Liu",
       "fullname": "Carol Liu"
     },
     {
@@ -504,7 +504,7 @@
         "Tulare",
         "Porterville"
       ],
-      "nameid": "connie_conway",
+      "nameid": "Conway",
       "fullname": "Connie Conway"
     },
     {
@@ -518,7 +518,7 @@
         "Santa Monica",
         "Torrance"
       ],
-      "nameid": "holly_mitchell",
+      "nameid": "Mitchell",
       "fullname": "Holly Mitchell"
     },
     {
@@ -530,7 +530,7 @@
       "cities": [
         "San Jose"
       ],
-      "nameid": "nora_campos",
+      "nameid": "Campos",
       "fullname": "Nora Campos"
     },
     {
@@ -544,7 +544,7 @@
         "Thousand Oaks",
         "Simi Valley"
       ],
-      "nameid": "fran_pavley",
+      "nameid": "Pavley",
       "fullname": "Fran Pavley"
     },
     {
@@ -558,7 +558,7 @@
         "Cupertino",
         "Campbell"
       ],
-      "nameid": "paul_fong",
+      "nameid": "Fong",
       "fullname": "Paul Fong"
     },
     {
@@ -572,7 +572,7 @@
         "Temecula",
         "Indio"
       ],
-      "nameid": "ted_w_lieu",
+      "nameid": "Lieu",
       "fullname": "Ted W. Lieu"
     },
     {
@@ -586,7 +586,7 @@
         "Santa Cruz",
         "Seaside"
       ],
-      "nameid": "mark_stone",
+      "nameid": "Stone",
       "fullname": "Mark Stone"
     },
     {
@@ -600,7 +600,7 @@
         "Fullerton",
         "Chino Hills"
       ],
-      "nameid": "bob_huff",
+      "nameid": "Huff",
       "fullname": "Bob Huff"
     },
     {
@@ -614,7 +614,7 @@
         "Yuba City",
         "Paradise"
       ],
-      "nameid": "dan_logue",
+      "nameid": "Logue",
       "fullname": "Dan Logue"
     },
     {
@@ -628,7 +628,7 @@
         "Fairfield",
         "Vacaville"
       ],
-      "nameid": "lois_wolk",
+      "nameid": "Wolk",
       "fullname": "Lois Wolk"
     },
     {
@@ -642,7 +642,7 @@
         "Watsonville",
         "Gilroy"
       ],
-      "nameid": "luis_a_alejo",
+      "nameid": "Alejo",
       "fullname": "Luis A. Alejo"
     },
     {
@@ -656,7 +656,7 @@
         "Culver City",
         "Inglewood"
       ],
-      "nameid": "ron_calderon",
+      "nameid": "Calderon",
       "fullname": "Ron Calderon"
     },
     {
@@ -670,7 +670,7 @@
         "Sanger",
         "Reedley"
       ],
-      "nameid": "henry_t_perea",
+      "nameid": "Perea",
       "fullname": "Henry T. Perea"
     },
     {
@@ -684,7 +684,7 @@
         "Moreno Valley",
         "Corona"
       ],
-      "nameid": "richard_d_roth",
+      "nameid": "Roth",
       "fullname": "Richard D. Roth"
     },
     {
@@ -698,7 +698,7 @@
         "Hanford",
         "Delano"
       ],
-      "nameid": "rudy_jr_salas",
+      "nameid": "Salas",
       "fullname": "Rudy Jr. Salas"
     },
     {
@@ -712,7 +712,7 @@
         "Norwalk",
         "Whittier"
       ],
-      "nameid": "norma_j_torres",
+      "nameid": "Torres",
       "fullname": "Norma J. Torres"
     },
     {
@@ -726,7 +726,7 @@
         "Hesperia",
         "Apple Valley"
       ],
-      "nameid": "tim_donnelly",
+      "nameid": "Donnelly",
       "fullname": "Tim Donnelly"
     },
     {
@@ -740,7 +740,7 @@
         "South Gate",
         "Lynwood"
       ],
-      "nameid": "ricardo_lara",
+      "nameid": "Lara",
       "fullname": "Ricardo Lara"
     },
     {
@@ -754,7 +754,7 @@
         "Ridgecrest",
         "Tehachapi"
       ],
-      "nameid": "shannon_l_grove",
+      "nameid": "Grove",
       "fullname": "Shannon L. Grove"
     },
     {
@@ -768,7 +768,7 @@
         "Garden Grove",
         "Huntington Beach"
       ],
-      "nameid": "lou_correa",
+      "nameid": "Correa",
       "fullname": "Lou Correa"
     },
     {
@@ -782,7 +782,7 @@
         "San Luis Obispo",
         "Lompoc"
       ],
-      "nameid": "katcho_achadjian",
+      "nameid": "Achadjian",
       "fullname": "Katcho Achadjian"
     },
     {
@@ -796,7 +796,7 @@
         "Compton",
         "Inglewood"
       ],
-      "nameid": "roderick_d_wright",
+      "nameid": "Wright",
       "fullname": "Roderick D. Wright"
     },
     {
@@ -810,7 +810,7 @@
         "Palmdale",
         "California City"
       ],
-      "nameid": "steve_fox",
+      "nameid": "Fox",
       "fullname": "Steve Fox"
     },
     {
@@ -824,7 +824,7 @@
         "Carlsbad",
         "Vista"
       ],
-      "nameid": "joel_anderson",
+      "nameid": "Anderson",
       "fullname": "Joel Anderson"
     },
     {
@@ -838,7 +838,7 @@
         "Santa Barbara",
         "Oxnard"
       ],
-      "nameid": "das_williams",
+      "nameid": "Williams",
       "fullname": "Das Williams"
     },
     {
@@ -852,7 +852,7 @@
         "Orange",
         "Costa Mesa"
       ],
-      "nameid": "mimi_walters",
+      "nameid": "Walters",
       "fullname": "Mimi Walters"
     },
     {
@@ -866,7 +866,7 @@
         "Simi Valley",
         "Los Angeles"
       ],
-      "nameid": "scott_wilk",
+      "nameid": "Wilk",
       "fullname": "Scott Wilk"
     },
     {
@@ -880,7 +880,7 @@
         "El Cajon",
         "San Marcos"
       ],
-      "nameid": "mark_wyland",
+      "nameid": "Wyland",
       "fullname": "Mark Wyland"
     },
     {
@@ -893,7 +893,7 @@
         "Los Angeles",
         "San Fernando"
       ],
-      "nameid": "raul_bocanegra",
+      "nameid": "Bocanegra",
       "fullname": "Raul Bocanegra"
     },
     {
@@ -907,7 +907,7 @@
         "Coronado",
         "Solana Beach"
       ],
-      "nameid": "marty_block",
+      "nameid": "Block",
       "fullname": "Marty Block"
     },
     {
@@ -921,7 +921,7 @@
         "Davis",
         "Woodland"
       ],
-      "nameid": "mariko_yamada",
+      "nameid": "Yamada",
       "fullname": "Mariko Yamada"
     },
     {
@@ -935,7 +935,7 @@
         "Chico",
         "Citrus Heights"
       ],
-      "nameid": "jim_nielsen",
+      "nameid": "Nielsen",
       "fullname": "Jim Nielsen"
     },
     {
@@ -949,7 +949,7 @@
         "San Bernardino",
         "Redlands"
       ],
-      "nameid": "mike_morrell",
+      "nameid": "Morrell",
       "fullname": "Mike Morrell"
     },
     {
@@ -963,7 +963,7 @@
         "Chula Vista",
         "National City"
       ],
-      "nameid": "ben_hueso",
+      "nameid": "Hueso",
       "fullname": "Ben Hueso"
     },
     {
@@ -977,7 +977,7 @@
         "Upland",
         "Monrovia"
       ],
-      "nameid": "chris_r_holden",
+      "nameid": "Holden",
       "fullname": "Chris R. Holden"
     },
     {
@@ -991,7 +991,7 @@
         "Hemet",
         "Palm Desert"
       ],
-      "nameid": "brian_nestande",
+      "nameid": "Nestande",
       "fullname": "Brian Nestande"
     },
     {
@@ -1005,7 +1005,7 @@
         "Los Angeles",
         "Burbank"
       ],
-      "nameid": "mike_gatto",
+      "nameid": "Gatto",
       "fullname": "Mike Gatto"
     },
     {
@@ -1019,7 +1019,7 @@
         "Thousand Oaks",
         "Camarillo"
       ],
-      "nameid": "jeff_gorell",
+      "nameid": "Gorell",
       "fullname": "Jeff Gorell"
     },
     {
@@ -1033,7 +1033,7 @@
         "Calabasas",
         "Hidden Hills"
       ],
-      "nameid": "matthew_dababneh",
+      "nameid": "Dababneh",
       "fullname": "Matthew Dababneh"
     },
     {
@@ -1045,7 +1045,7 @@
       "cities": [
         "Los Angeles"
       ],
-      "nameid": "adrin_nazarian",
+      "nameid": "Nazarian",
       "fullname": "Adrin Nazarian"
     },
     {
@@ -1059,7 +1059,7 @@
         "Rialto",
         "San Bernardino"
       ],
-      "nameid": "cheryl_r_brown",
+      "nameid": "Brown",
       "fullname": "Cheryl R. Brown"
     },
     {
@@ -1073,7 +1073,7 @@
         "Baldwin Park",
         "Glendora"
       ],
-      "nameid": "roger_hernndez",
+      "nameid": "RogerHernndez",
       "fullname": "Roger Hern\u00e1ndez"
     },
     {
@@ -1087,7 +1087,7 @@
         "El Monte",
         "Monterey Park"
       ],
-      "nameid": "ed_chau",
+      "nameid": "Chau",
       "fullname": "Ed Chau"
     },
     {
@@ -1101,7 +1101,7 @@
         "South Lake Tahoe",
         "Chowchilla"
       ],
-      "nameid": "frank_bigelow",
+      "nameid": "Bigelow",
       "fullname": "Frank Bigelow"
     },
     {
@@ -1115,7 +1115,7 @@
         "Modesto",
         "Tracy"
       ],
-      "nameid": "cathleen_galgiani",
+      "nameid": "Galgiani",
       "fullname": "Cathleen Galgiani"
     },
     {
@@ -1129,7 +1129,7 @@
         "Santa Monica",
         "West Hollywood"
       ],
-      "nameid": "richard_bloom",
+      "nameid": "Bloom",
       "fullname": "Richard Bloom"
     },
     {
@@ -1141,7 +1141,7 @@
       "cities": [
         "Los Angeles"
       ],
-      "nameid": "jimmy_gomez",
+      "nameid": "Gomez",
       "fullname": "Jimmy Gomez"
     },
     {
@@ -1155,7 +1155,7 @@
         "Pomona",
         "Chino"
       ],
-      "nameid": "freddie_rodriguez",
+      "nameid": "Rodriguez",
       "fullname": "Freddie Rodriguez"
     },
     {
@@ -1169,7 +1169,7 @@
         "Huntington Park",
         "Vernon"
       ],
-      "nameid": "john_a_prez",
+      "nameid": "JohnAPrez",
       "fullname": "John A. P\u00e9rez"
     },
     {
@@ -1183,7 +1183,7 @@
         "Culver City",
         "Inglewood"
       ],
-      "nameid": "sebastian_ridley-thomas",
+      "nameid": "Ridley-Thomas",
       "fullname": "Sebastian Ridley-Thomas"
     },
     {
@@ -1197,7 +1197,7 @@
         "Yorba Linda",
         "La Habra"
       ],
-      "nameid": "curt_hagman",
+      "nameid": "Hagman",
       "fullname": "Curt Hagman"
     },
     {
@@ -1211,7 +1211,7 @@
         "Cathedral City",
         "El Centro"
       ],
-      "nameid": "v_manuel_prez",
+      "nameid": "VManuelPrez",
       "fullname": "V. Manuel P\u00e9rez"
     },
     {
@@ -1225,7 +1225,7 @@
         "Norwalk",
         "La Mirada"
       ],
-      "nameid": "ian_c_calderon",
+      "nameid": "Calderon",
       "fullname": "Ian C. Calderon"
     },
     {
@@ -1239,7 +1239,7 @@
         "Bellflower",
         "Pico Rivera"
       ],
-      "nameid": "cristina_garcia",
+      "nameid": "Garcia",
       "fullname": "Cristina Garcia"
     },
     {
@@ -1252,7 +1252,7 @@
         "Los Angeles",
         "Huntington Park"
       ],
-      "nameid": "reginald_b_sr_jones-sawyer",
+      "nameid": "Jones-Sawyer",
       "fullname": "Reginald B. Sr. Jones-Sawyer"
     },
     {
@@ -1266,7 +1266,7 @@
         "Folsom",
         "Rocklin"
       ],
-      "nameid": "beth_gaines",
+      "nameid": "Gaines",
       "fullname": "Beth Gaines"
     },
     {
@@ -1280,7 +1280,7 @@
         "Elk Grove",
         "West Sacramento"
       ],
-      "nameid": "darrell_steinberg",
+      "nameid": "Steinberg",
       "fullname": "Darrell Steinberg"
     },
     {
@@ -1294,7 +1294,7 @@
         "Riverside",
         "Norco"
       ],
-      "nameid": "eric_linder",
+      "nameid": "Linder",
       "fullname": "Eric Linder"
     },
     {
@@ -1308,7 +1308,7 @@
         "Riverside",
         "Perris"
       ],
-      "nameid": "jose_medina",
+      "nameid": "Medina",
       "fullname": "Jose Medina"
     },
     {
@@ -1322,7 +1322,7 @@
         "Inglewood",
         "Hawthorne"
       ],
-      "nameid": "steven_bradford",
+      "nameid": "Bradford",
       "fullname": "Steven Bradford"
     },
     {
@@ -1336,7 +1336,7 @@
         "Lakewood",
         "Lynwood"
       ],
-      "nameid": "anthony_rendon",
+      "nameid": "Rendon",
       "fullname": "Anthony Rendon"
     },
     {
@@ -1350,7 +1350,7 @@
         "Compton",
         "Carson"
       ],
-      "nameid": "isadore_iii_hall",
+      "nameid": "Hall",
       "fullname": "Isadore III Hall"
     },
     {
@@ -1364,7 +1364,7 @@
         "Anaheim",
         "Buena Park"
       ],
-      "nameid": "sharon_quirk-silva",
+      "nameid": "Quirk-Silva",
       "fullname": "Sharon Quirk-Silva"
     },
     {
@@ -1378,7 +1378,7 @@
         "Redondo Beach",
         "Gardena"
       ],
-      "nameid": "al_muratsuchi",
+      "nameid": "Muratsuchi",
       "fullname": "Al Muratsuchi"
     },
     {
@@ -1392,7 +1392,7 @@
         "Menifee",
         "Lake Elsinore"
       ],
-      "nameid": "melissa_a_melendez",
+      "nameid": "Melendez",
       "fullname": "Melissa A. Melendez"
     },
     {
@@ -1406,7 +1406,7 @@
         "Lake Forest",
         "Tustin"
       ],
-      "nameid": "donald_p_wagner",
+      "nameid": "Wagner",
       "fullname": "Donald P. Wagner"
     },
     {
@@ -1420,7 +1420,7 @@
         "Anaheim",
         "Garden Grove"
       ],
-      "nameid": "tom_daly",
+      "nameid": "Daly",
       "fullname": "Tom Daly"
     },
     {
@@ -1433,7 +1433,7 @@
         "Sacramento",
         "West Sacramento"
       ],
-      "nameid": "roger_dickinson",
+      "nameid": "Dickinson",
       "fullname": "Roger Dickinson"
     },
     {
@@ -1447,7 +1447,7 @@
         "Antioch",
         "Livermore"
       ],
-      "nameid": "mark_desaulnier",
+      "nameid": "DeSaulnier",
       "fullname": "Mark DeSaulnier"
     },
     {
@@ -1461,7 +1461,7 @@
         "Los Angeles",
         "Signal Hill"
       ],
-      "nameid": "bonnie_lowenthal",
+      "nameid": "Lowenthal",
       "fullname": "Bonnie Lowenthal"
     },
     {
@@ -1474,7 +1474,7 @@
         "El Cajon",
         "Santee"
       ],
-      "nameid": "brian_w_jones",
+      "nameid": "Jones",
       "fullname": "Brian W. Jones"
     },
     {
@@ -1488,7 +1488,7 @@
         "Huntington Beach",
         "Westminster"
       ],
-      "nameid": "travis_allen",
+      "nameid": "Allen",
       "fullname": "Travis Allen"
     },
     {
@@ -1502,7 +1502,7 @@
         "San Clemente",
         "Laguna Niguel"
       ],
-      "nameid": "diane_l_harkey",
+      "nameid": "Harkey",
       "fullname": "Diane L. Harkey"
     },
     {
@@ -1516,7 +1516,7 @@
         "Costa Mesa",
         "Huntington Beach"
       ],
-      "nameid": "allan_r_mansoor",
+      "nameid": "Mansoor",
       "fullname": "Allan R. Mansoor"
     },
     {
@@ -1530,7 +1530,7 @@
         "Temecula",
         "San Marcos"
       ],
-      "nameid": "marie_waldron",
+      "nameid": "Waldron",
       "fullname": "Marie Waldron"
     },
     {
@@ -1544,7 +1544,7 @@
         "Carlsbad",
         "Vista"
       ],
-      "nameid": "rocky_j_chvez",
+      "nameid": "Chvez",
       "fullname": "Rocky J. Ch\u00e1vez"
     },
     {
@@ -1557,7 +1557,7 @@
         "San Diego",
         "Poway"
       ],
-      "nameid": "brian_maienschein",
+      "nameid": "Maienschein",
       "fullname": "Brian Maienschein"
     },
     {
@@ -1571,7 +1571,7 @@
         "Imperial Beach",
         "Coronado"
       ],
-      "nameid": "toni_atkins",
+      "nameid": "Atkins",
       "fullname": "Toni Atkins"
     },
     {
@@ -1585,7 +1585,7 @@
         "Chula Vista",
         "La Mesa"
       ],
-      "nameid": "shirley_n_weber",
+      "nameid": "Weber",
       "fullname": "Shirley N. Weber"
     },
     {
@@ -1598,7 +1598,7 @@
         "Citrus Heights",
         "Rancho Cordova"
       ],
-      "nameid": "ken_cooley",
+      "nameid": "Cooley",
       "fullname": "Ken Cooley"
     },
     {
@@ -1612,7 +1612,7 @@
         "Clovis",
         "Turlock"
       ],
-      "nameid": "leland_y_yee",
+      "nameid": "Yee",
       "fullname": "Leland Y. Yee"
     },
     {
@@ -1626,7 +1626,7 @@
         "Chula Vista",
         "National City"
       ],
-      "nameid": "lorena_gonzalez",
+      "nameid": "Gonzalez",
       "fullname": "Lorena Gonzalez"
     },
     {
@@ -1640,7 +1640,7 @@
         "Sacramento",
         "Lodi"
       ],
-      "nameid": "richard_pan",
+      "nameid": "Pan",
       "fullname": "Richard Pan"
     },
     {
@@ -1654,12 +1654,12 @@
         "Berkeley",
         "Richmond"
       ],
-      "nameid": "loni_hancock",
+      "nameid": "Hancock",
       "fullname": "Loni Hancock"
     }
   ],
   "argv": [
     "importMemberInfo.py"
   ],
-  "time": "Sun Mar 16 17:21:40 2014"
+  "time": "Sun Mar 16 20:31:35 2014"
 }
