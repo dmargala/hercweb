@@ -4,18 +4,14 @@
 
 var hercwebControllers = angular.module('hercwebControllers', []);
 
-hercwebControllers.controller('MemberListCtrl', ['$scope', '$http',
-  function($scope, $http) {
-  	$http.get('data/memberinfo.json').success(function(data) {
-		$scope.members = data['members'];
-	});
-
-	$scope.orderProp = 'member';
+hercwebControllers.controller('MemberListCtrl', ['$scope', 'Member',
+  function($scope, Member) {
+	$scope.members = Member.query();
+    $scope.orderProp = 'member';
   }]);
 
-hercwebControllers.controller('MemberDetailCtrl', ['$scope', '$routeParams', '$http',
-  function($scope, $routeParams, $http) {
-    $http.get('data/members/' + $routeParams.memberId + '.json').success(function(data) {
-      $scope.member = data;
-    });
+hercwebControllers.controller('MemberDetailCtrl', ['$scope', '$routeParams', 'Member',
+  function($scope, $routeParams, Member) {
+      $scope.member = Member.get({memberId: $routeParams.memberId});
   }]);
+
