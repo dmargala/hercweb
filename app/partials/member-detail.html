@@ -2,27 +2,27 @@
 
 <h1>{{member.fullname}}</h1>
 
-<p>{{member.party}} representing the {{member.districtOrdinal}} {{member.house}} district</p>
-<p>{{member.cities.split('\n').join(', ')}}</p>
+<p class="lead">{{member.party}} representing the {{member.districtOrdinal}} {{member.house}} district</p>
+<p class="lead">{{member.cities.split('\n').join(', ')}}</p>
 
 <div class="span10">
-  <table class="table table-bordered">
+  <table class="table table-bordered table-hover">
   	<thead>
 	  <tr>
-	    <td>Bill ID</td>
-	  	<td>Vote</td>
-	  	<td>Target</td>
-	  	<td>Weight</td>
-	  	<td>Bill Description</td>
+	    <td class="text-center">Bill ID</td>
+	  	<td class="text-center">Vote</td>
+	  	<td class="text-center">Target</td>
+	  	<td class="text-center">Weight</td>
+	  	<td class="text-center">Bill Description</td>
 	  </tr>
   	</thead>
 	<tbody>
 	  <tr ng-repeat="vote in member.voterecord" class="{{vote.vote == vote.target ? 'success' : 'danger'}}">
-	    <td>{{vote.title}}</td>
-	    <td>{{vote.vote == 'Y' | checkmark}}</td>
-	    <td>{{vote.target == 'Y' | checkmark}}</td>
-	    <td>{{vote.weight}}</td>
-	    <td>{{vote.description}}</td>
+	    <td class="text-center">{{vote.title}}</td>
+	    <td class="text-center">{{vote.vote == 'Y' | checkmark}}</td>
+	    <td class="text-center">{{vote.target == 'Y' | checkmark}}</td>
+	    <td class="text-center">{{vote.weight}}</td>
+	    <td class="text-left">{{vote.description}}</td>
 	  </tr>
 	</tbody>
   </table>

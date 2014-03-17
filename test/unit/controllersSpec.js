@@ -62,4 +62,31 @@ describe('HERCWeb controllers', function() {
     });
   });
 
+  describe('BillListCtrl', function(){
+    var scope, ctrl, $httpBackend;
+
+    beforeEach(inject(function(_$httpBackend_, $rootScope, $controller) {
+      $httpBackend = _$httpBackend_;
+      $httpBackend.expectGET('data/bills.json').
+          respond([{id: '0AB123'}, {id: '0SB456'}]);
+
+      scope = $rootScope.$new();
+      ctrl = $controller('BillListCtrl', {$scope: scope});
+    }));
+
+
+    it('should create "bills" model with 2 bills fetched from xhr', function() {
+      expect(scope.bills).toEqualData([]);
+      $httpBackend.flush();
+
+      expect(scope.bills).toEqualData(
+        [{id: '0AB123'}, {id: '0SB456'}]);
+    });
+
+
+    it('should set the default value of orderProp model', function() {
+      expect(scope.orderProp).toBe('id');
+    });
+  });
+
 });

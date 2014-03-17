@@ -15,3 +15,8 @@ hercwebControllers.controller('MemberDetailCtrl', ['$scope', '$routeParams', 'Me
       $scope.member = Member.get({memberId: $routeParams.memberId});
   }]);
 
+hercwebControllers.controller('BillListCtrl', ['$scope', 'Bill',
+  function($scope, Bill) {
+    $scope.bills = Bill.query();
+    $scope.orderProp = 'id';
+  }]);

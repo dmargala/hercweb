@@ -1,0 +1,122 @@
+[
+  {
+    "prefix": "AB",
+    "number": 233,
+    "id": "0AB233",
+    "vdate": "04/11/13",
+    "vplace": "Assembly Floor",
+    "motion" : "AB 233 WIECKOWSKI  Assembly Third Reading",
+    "description": "Prohibits courts from issuing an earnings withholding order to collect on student loan debt unless the loan debt repayment is guaranteed by a federal student loan program.",
+    "weight" : 2
+  },
+  {
+    "prefix": "AB",
+    "number": 233,
+    "id": "0AB233",
+    "vdate": "09/11/13",
+    "vplace": "Senate Floor",
+    "motion" : "Assembly 3rd Reading AB233 Wieckowski By Evans",
+    "description": "Prohibits courts from issuing an earnings withholding order to collect on student loan debt unless the loan debt repayment is guaranteed by a federal student loan program.",
+    "weight" : 2
+  },
+  {
+    "prefix": "AB",
+    "number": 330,
+    "id": "0AB330",
+    "vdate": "01/29/14",
+    "vplace": "Assembly Floor",
+    "motion" : "AB 330 CHAU  Assembly Third Reading",
+    "description": "Requires postsecondary institutions to provide their net price calculators and the average student loan debt of its graduates to be made publicly available on CA Student Aid Commission's website as a condition of the Cal Grant program.",
+    "weight" : 6
+  },
+  {
+    "prefix": "AB",
+    "number": 1162,
+    "id": "0AB1162",
+    "vdate": "05/16/13",
+    "vplace": "Assembly Floor",
+    "motion" : "AB 1162 FRAZIER  Assembly Third Reading",
+    "description": "Requests postsecondary educational institutions, banks, and other financial institutions negotiate a contract related to the disbursement of a student's financial aid award onto a fee-free debit card.",
+    "weight" : 2
+  },
+  {
+    "prefix": "AB",
+    "number": 1241,
+    "id": "0AB1241",
+    "vdate": "05/30/13",
+    "vplace": "Assembly Floor",
+    "motion" : "AB 1241 WEBER  Assembly Third Reading",
+    "description": "Extends period of eligibility for Cal Grant A and B Entitlement Awards by 3 years.",
+    "weight" : 6
+  },
+  {
+    "prefix": "AB",
+    "number": 1285,
+    "id": "0AB1285",
+    "vdate": "05/30/13",
+    "vplace": "Assembly Floor",
+    "motion" : "AB 1285 FONG  Assembly Third Reading",
+    "description": "Expands Cal Grant B funding by eliminating the 2% cap on the number of Cal Grant B awards that cover the first year of tuition and fees.",
+    "weight" : 8
+  },
+  {
+    "prefix": "AB",
+    "number": 1287,
+    "id": "0AB1287",
+    "vdate": "09/10/13",
+    "vplace": "Assembly Floor",
+    "motion" : "AB 1287 QUIRK-SILVA  Concurrence in Senate Amendments",
+    "description": "Removes provisions requiring renewing Cal Grant award recipients meet annual income and asset criteria to maintain eligibility.",
+    "weight" : 6
+  },
+  {
+    "prefix": "AB",
+    "number": 1287,
+    "id": "0AB1287",
+    "vdate": "09/09/13",
+    "vplace": "Senate Floor",
+    "motion" : "Assembly 3rd Reading AB1287 Quirk-Silva By Correa",
+    "description": "Removes provisions requiring renewing Cal Grant award recipients meet annual income and asset criteria to maintain eligibility.",
+    "weight" : 6
+  },
+  {
+    "prefix": "AB",
+    "number": 1364,
+    "id": "0AB1364",
+    "vdate": "05/30/13",
+    "vplace": "Assembly Floor",
+    "motion" : "AB 1364 TING  Assembly Third Reading",
+    "description": "Requires that the minimum amount of the Cal Grant B access award be  annually adjusted to include the percentage increase in the California Consumer Price Index.",
+    "weight" : 2
+  },
+  {
+    "prefix": "SB",
+    "number": 595,
+    "id": "0SB595",
+    "vdate": "08/22/13",
+    "vplace": "Assembly Floor",
+    "motion" : "SB 595 Calderon  Consent Calendar Second Day  Regular Session",
+    "description": "Requests UC, CSU, and CCCs not enter into a contract with a Financial institution that requires students to open an account as a condition of receiving Financial aid.",
+    "weight" : 4
+  },
+  {
+    "prefix": "SB",
+    "number": 595,
+    "id": "0SB595",
+    "vdate": "05/28/13",
+    "vplace": "Senate Floor",
+    "motion" : "Special Consent #6 SB595 Calderon",
+    "description": "Requests UC, CSU, and CCCs not enter into a contract with a Financial institution that requires students to open an account as a condition of receiving Financial aid.",
+    "weight" : 4
+  },
+  {
+    "prefix": "AB",
+    "number": 1085,
+    "id": "0AB1085",
+    "vdate": "04/09/13",
+    "vplace": "Asm Higher Education",
+    "motion" : "Do pass as amended and be re-referred to the Committee on Appropriations.",
+    "description": "Increases maximum Cal Grant tuition award amounts for recipients attending private for-profit and nonprofit postsecondary institutions.",
+    "weight" : 4
+  }
+]

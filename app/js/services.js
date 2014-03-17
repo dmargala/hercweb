@@ -10,3 +10,10 @@ hercwebServices.factory('Member', ['$resource',
       query: {method:'GET', params:{memberId:'members'}, isArray:true}
     });
   }]);
+
+hercwebServices.factory('Bill', ['$resource',
+  function($resource){
+    return $resource('data/bills.json', {}, {
+      query: {method:'GET', params:{}, isArray:true}
+    });
+  }]);

@@ -21,6 +21,10 @@ hercwebApp.config(['$routeProvider',
         templateUrl: 'partials/member-detail.html',
         controller: 'MemberDetailCtrl'
       }).
+      when('/bills', {
+        templateUrl: 'partials/bill-list.html',
+        controller: 'BillListCtrl'
+      }).
       otherwise({
         redirectTo: '/members'
       });

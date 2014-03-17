@@ -1,6 +1,6 @@
 var hercwebAnimations = angular.module('hercwebAnimations', ['ngAnimate']);
 
-hercwebAnimations.animation('.member', function() {
+hercwebAnimations.animation('.item', function() {
 
   var animateUp = function(element, className, done) {
     if(className != 'active') {
