@@ -31,3 +31,9 @@ hercwebFilters.filter('ordinal', function() {
     return numberString + ord;
   };
 });
+
+hercwebFilters.filter('toMemberId', function() {
+  return function(name) {
+    return name.replace(/[^\w,-]/gi, '');
+  };
+});

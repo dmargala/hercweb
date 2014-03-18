@@ -1,0 +1,39 @@
+<div class="container-fluid">
+  <h2> California State Legislation </h2>
+  <div class="row-fluid">
+    <!--Header content-->
+    <div class="span4">
+      Search: <input ng-model="query">
+    </div>
+    <div class="span4">
+      Sort by:
+      <select ng-model="orderProp">
+        <option value="id">ID</option>
+        <option value="-weight">Weight</option>
+      </select>
+    </div>
+  </div>
+  </div class="row-fluid">
+    <!--Body content-->
+    <div class="span4">
+
+      <ul class="bills">
+        <dl ng-repeat="bill in bills | filter:query | orderBy:orderProp" class="dl-horizontal thumbnail item-listing">
+          <dt>Bill ID</dt>
+          <dd><a href="#/bills/{{bill.id}}">{{bill.id}}</a></dd>
+          <dt>Motion</dt>
+          <dd>{{bill.motion}}</dd>
+          <dt>Location</dt>
+          <dd>{{bill.vplace}}</dd>
+          <dt>Date</dt>
+          <dd>{{bill.vdate}}</dd>
+          <dt>Description</dt>
+          <dd>{{bill.description}}</dd>
+          <dt>Weight</dt>
+          <dd>{{bill.weight}}</dd>
+        </dl>
+      </ul>
+
+    </div>
+  </div>
+</div>
