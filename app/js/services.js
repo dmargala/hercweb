@@ -17,10 +17,3 @@ hercwebServices.factory('Bill', ['$resource',
       query: {method:'GET', params:{}, isArray:true}
     });
   }]);
-
-hercwebServices.factory('BillVotes', ['$resource',
-  function($resource){
-    return $resource('data/legvotes.json', {}, {
-      query: {method:'GET', params:{}, isArray:true}
-    });
-  }]);

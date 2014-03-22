@@ -69,13 +69,13 @@ describe('HERCWeb App', function() {
 
 
     it('should filter the bill list as user types into the search box', function() {
-      expect(repeater('.bills dl').count()).toBe(12);
+      expect(repeater('.bills li').count()).toBe(12);
 
       input('query').enter('Senate Floor');
-      expect(repeater('.bills dl').count()).toBe(3);
+      expect(repeater('.bills li').count()).toBe(3);
 
       input('query').enter('Special Consent');
-      expect(repeater('.bills dl').count()).toBe(1);
+      expect(repeater('.bills li').count()).toBe(1);
     });
 
   });

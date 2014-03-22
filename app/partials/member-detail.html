@@ -17,9 +17,7 @@
 	  </tr>
   	</thead>
 	<tbody>
-	  <tr ng-repeat="vote in member.voterecord" 
-	  	  class="{{vote.vote == vote.target ? 'success' : 'danger'}}" 
-	  	  ng-click="switchToBillDetail(vote.title)">
+	  <tr ng-repeat="vote in member.voterecord" class="{{vote.vote == vote.target ? 'success' : 'danger'}}">
 	    <td class="text-center">{{vote.title}}</td>
 	    <td class="text-center">{{vote.vote == 'Y' | checkmark}}</td>
 	    <td class="text-center">{{vote.target == 'Y' | checkmark}}</td>
